@@ -9,5 +9,5 @@ Assessed by: Dr Tanveer Saleh (Mechatronics Department, KOE IIUM)
 
 ## Output
 Name: Muhammad Hafiz bin Samsuri
-Output: 
+Output:\n
 ![alt text](https://github.com/hafizsam/RoboDK/blob/main/RoboDK%20output.png)
